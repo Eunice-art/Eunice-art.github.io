@@ -1,22 +1,22 @@
-# Eunice-art.github.io
-# *Portfolio Website*
+#### Eunice-art.github.io
+##### *Portfolio Website*
 
-# *Project Description*
+##### *Project Description*
 <p> Website to Showcase my skills and previous projects to potential Clients<p>
 
-## *Author*
+###### *Author*
 <p> Eunice Mungai<p>
 
-## *Technology used*
+###### *Technology used*
    *Html
    *Css
    *Bootstrap
 
-## *setup and Installation*
+###### *setup and Installation*
 To install the above project in your computer install VSC and run the code, modifying it to your needs.
 
-## *Licence and Contact Information*
+###### *Licence and Contact Information*
 Copyright © 2022 Eunice Mungai Above work is open source for use by any third parties. 
 
-## *Authors Information*
+###### *Authors Information*
 Email eunice.mungai@student.moringaschool.com
